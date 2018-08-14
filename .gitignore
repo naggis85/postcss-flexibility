@@ -1,7 +1,7 @@
-node_modules
 coverage
 .nyc_output
 .DS_Store
 *.log
 index.es5.js
 npm-debug.log
+**/node_modules
